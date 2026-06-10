@@ -1,21 +1,22 @@
-# Jeremías Mendoza
 
-### Estudiante de Ingeniería en Sistemas | Desarrollador de Software
+# Hola, soy Jeremías Mendoza
 
-Estudiante de 5to año de Ingeniería en Sistemas (UNViMe) con orientación al desarrollo de software y la resolución de problemas complejos. Cuento con conocimientos en desarrollo Front-end y Back-end, y busco aplicar mis habilidades técnicas en un entorno laboral remoto, aportando valor mediante la implementación de buenas prácticas y estándares de seguridad.
+### 👨‍💻 Systems Engineering Student | Software Developer
 
-### 💼 Perfil Profesional
-- 🎓 **Educación:* Estudiante avanzado de Ingeniería en Sistemas - Universidad Nacional de Villa Mercedes (UNViMe).
-- 💻 **Áreas de interés:** Desarrollo Web (Front-end / Back-end), Arquitectura de Software, y Auditoría de Sistemas (Normativas ISO 19011 / ISO 27002).
-- 🌍 **Disponibilidad:** Trabajo remoto.
+I am a 5th-year Systems Engineering student at Universidad Nacional de Villa Mercedes (UNViMe) with a strong foundation in software development and problem-solving. With a solid understanding of both Front-end and Back-end technologies, I am actively seeking remote opportunities to apply my technical skills and deliver secure, efficient solutions. I also have a keen interest in systems auditing and security compliance (ISO 19011 / ISO 27002).
 
-### 🛠️ Tecnologías y Herramientas
-- **Lenguajes de Programación:** [Ej: Java, JavaScript, Python, C#]
-- **Desarrollo Web:** [Ej: React, Node.js, HTML/CSS]
-- **Bases de Datos:** [Ej: MySQL, PostgreSQL, MongoDB]
-- **Herramientas y Control de Versiones:** Git, GitHub, [Otras herramientas].
+### 💼 Professional Profile
+- 🎓 **Education:** Advanced Systems Engineering Student - UNViMe.
+- 💻 **Focus Areas:** Web Development (Front-end & Back-end), Software Architecture, and Systems Auditing.
+- 🌍 **Availability:** Open to remote work opportunities.
 
-### 📫 Contacto
-- **LinkedIn:** https://www.linkedin.com/in/jeremendoza01/
-- **Email:** mjeremiasadriel@gmail.com
-- **Ubicación:** San Luis, Argentina.
+### 🛠️ Tech Stack & Tools
+- 🌐 **Front-end:** ⚛️ React | 🟨 JavaScript | 🎨 HTML5 & CSS3
+- ⚙️ **Back-end:** 🐍 Python | ☕ Java | 🟢 Node.js
+- 🗄️ **Databases:** 🐬 MySQL | 🐘 PostgreSQL | 🍃 MongoDB
+- 🔧 **Tools & Workflow:** 🐙 Git | 🐈‍⬛ GitHub | 🐳 Docker
+
+### 📫 Let's Connect
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/jeremendoza01/)
+- ✉️ [**Email**](mailto:mjeremiasadriel@gmail.com)
+- 📍 **Location:** San Luis, Argentina
