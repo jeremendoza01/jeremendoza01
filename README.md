@@ -31,8 +31,6 @@ Beyond application development, I have a strong interest in **Software Architect
 | **Roja Directa**<br />*Sports Court Booking App* | Full-stack web application for booking sports venues. Built with custom React hooks and global state management, featuring **token-based authentication** and **Mercado Pago** payment gateway integration. | `React` `JavaScript` `REST API` `Auth` `Mercado Pago` |
 | **Simbiosis Geo**<br />*Institutional Web & Catalog* | Responsive institutional website and product catalog designed for performance and usability. Configured automated **CI/CD pipelines** with GitHub Actions and multi-platform cloud deployment. | `HTML5` `CSS3` `JavaScript` `GitHub Actions` `Vercel` `Zeabur` |
 
-> *Tip: Replace the project titles above with direct links to your repositories or live demos once public.*
-
 ---
 
 ### Technology Stack
