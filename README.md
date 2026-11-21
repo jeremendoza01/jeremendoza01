@@ -21,23 +21,6 @@
 
 Beyond application development, I have a strong interest in **Software Architecture**, **Systems Auditing**, and **Information Security Compliance (ISO 19011 / ISO 27002)**—bringing an analytical, quality-driven mindset to every stage of the software lifecycle.
 
-```yaml
-# profile.yml
-engineer: Jeremías Mendoza
-education:
-  degree: Systems Engineering (5th Year · 25 courses completed)
-  intermediate_degree: University Systems Analyst (in progress)
-  institution: Universidad Nacional de Villa Mercedes (UNViMe)
-focus_areas:
-  - Full-Stack Web Development
-  - Software Architecture & Clean Code
-  - CI/CD & API Integration
-  - Systems Auditing & Security (ISO 19011 / ISO 27002)
-languages:
-  spanish: Native
-  english: Intermediate (Technical & Professional)
-availability: Open to remote software development roles
-```
 
 ---
 
